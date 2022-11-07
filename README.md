@@ -1,7 +1,7 @@
 # Pseudo Random Test Data Generation
 ## A sample project for the article
 
-> :information_source: This project is explained in the article: [When you need to generate data for tests](https://blog.shimomoto.org/)
+> :information_source: This project is explained in the article: [When you need to generate data for tests](https://blog.shimomoto.org/when-you-need-to-generate-data-for-tests)
 
 This project was create using Gradle's init command:
 ``` shell
